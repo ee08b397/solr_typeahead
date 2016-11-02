@@ -1,0 +1,14 @@
+target
+*.class
+
+.idea
+*.iml
+*.ipr
+*.iws
+out
+lib
+
+derby.log
+*.jar
+artifact
+dependency-reduced-pom.xml
